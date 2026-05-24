@@ -1,0 +1,8 @@
+{
+  "name": "Release 作成",
+  "description": "main へのマージ時に GitHub Release を自動作成します（タグ: vYYYYMMDD.HHMMSS JST）",
+  "iconName": "octicon-rocket",
+  "categories": [
+    "Release"
+  ]
+}
